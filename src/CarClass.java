@@ -1,0 +1,3 @@
+public enum CarClass {
+    ECONOMY, COMPACT, MIDSIZE, LUXURY, SUV, SPORTS
+}
